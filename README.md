@@ -45,7 +45,7 @@
 
 Описание файловой структуры проекта:
 
-    pulse_divider_for_tachometer
+    heating_pump_module
     ├── images         - фотографии устройства
     ├── pcb            - печатная плата
     ├── shemas         - схема устройства
